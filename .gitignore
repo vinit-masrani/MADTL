@@ -1,0 +1,15 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.git
+.idea
+.gradle*
+gradle*
+*.graddle[D[D[D[D[D[D[D[D[C[C[C[C[[3~[3~[3~[3~[3~[3~[C[C[dle
+local.properties
